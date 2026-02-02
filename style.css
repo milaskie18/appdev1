@@ -1,0 +1,24 @@
+body{
+    background-color: rgba(190, 96, 167, 0.76);
+    text-align: center;
+}
+
+h2{
+    position: relative;
+    bottom: -50px;
+}
+
+
+#real{
+    font-size: 20px;
+    position: relative;
+    bottom: -20px;
+}
+
+#favorite{
+
+    position: relative;
+    bottom: -20px;
+    height: 500px;
+    width: 500px;
+}
